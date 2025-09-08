@@ -1,4 +1,4 @@
-# EduMentor — POC (Grupo 18)
+# EduMentor — (Grupo 18)
 
 ## Integrantes
 - Daniel Paz Teles de Almeida
